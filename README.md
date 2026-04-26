@@ -1,25 +1,23 @@
-<h1 align="center">Hi 👋, I'm Namra Imtiaz</h1>
-<h3 align="center">A Full-Stack Developer & Software Engineering Student from Karachi, Pakistan 🇵🇰</h3>
+<h1 align="center">Namra Imtiaz</h1>
+<h3 align="center">Full-Stack Software Engineer | Karachi, Pakistan</h3>
 
 <p align="center">
-  A final-year Software Engineering student passionate about web and mobile development. I love building scalable applications using MERN and Flutter, and I'm actively exploring AI integrations to create smarter, innovative solutions.
+  A Full-Stack Software Engineer dedicated to building scalable web and mobile applications. I specialize in the MERN stack and Flutter, with a strong focus on integrating AI-driven solutions to optimize functionality and enhance user experience.
 </p>
 
-- 🎓 **Education:** Final year Software Engineering student at NED University of Engineering and Technology.
-- 💼 **Experience:** Currently working as a **Full-Stack Intern at EdgeFirm**, with previous internships at **10Pearls**, **Changan Pakistan**, and **DevelopersHub**.
-- 💻 **Tech Focus:** MERN Stack, Flutter, Next.js, and Data Analytics (Power BI).
-- 🌱 **Currently exploring:** Advanced backend architecture, computer vision, and AI applications.
-- 📫 **How to reach me:** **namraimtiaz04@gmail.com**
-- ⚡ **Fun fact:** Outside of coding, I'm an active Badminton player and serve in IT Leadership for university societies like IEEE PES and NSA!
+- **Education:** Bachelor of Software Engineering, NED University of Engineering and Technology.
+- **Experience:** Currently engaged as a Full-Stack Intern at EdgeFirm, with prior technical software engineering internships at 10Pearls, Changan Pakistan, and DevelopersHub.
+- **Technical Focus:** Full-Stack Development (MERN), Mobile Development (Flutter), Next.js, and Data Analytics (Power BI).
+- **Current Endeavors:** Expanding expertise in advanced backend architecture, computer vision, and artificial intelligence.
+- **Contact:** namraimtiaz04@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Professional Networks:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/namra-imtiaz-64ba2325a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namra-imtiaz" height="30" width="40" /></a>
-<a href="https://namra-imtiaz.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="Portfolio" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/namraimtiaz04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="namraimtiaz04" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/namra-imtiaz-64ba2325a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/namraimtiaz04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Frameworks, and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
